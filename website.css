@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: url('c:/Users/Simra fathima/Pictures/WhatsApp Image 2025-10-18 at 15.24.22_187c7a74.jpg') no-repeat center center/cover;
+    color: #120404;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
